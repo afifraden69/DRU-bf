@@ -3,7 +3,7 @@
 
 #############################################################
 # Name           : Multi BF (MBF) <cookie method>           #
-# File           : Dru.py                                   #
+# File           : follow_me.py                             #
 # Author         : Badru                                    #
 # Github         : https://github.com/Dru-Crack22           #
 # Facebook       : https://www.facebook.com/Bang.badru23    #

@@ -116,9 +116,7 @@ class Brute:
 					]
 				else:
 					listpass = [
-						'sayang', 'cantik',
-						'bangsat', 'rahasia'
-						'indonesia', 'bismillah',
+						
 					]
 				self.target.append({'id': user['uid'], 'pw': listpass})
 			except: pass
